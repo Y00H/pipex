@@ -1,2 +1,1 @@
-# pizza
-problem of One Pizza
+# pipex
